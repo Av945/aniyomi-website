@@ -1,4 +1,4 @@
----
+title: Browse - anime Extension 
 title: Extensions
 titleTemplate: Browse - Frequently Asked Questions
 description: Frequently Asked Questions about Extensions.
